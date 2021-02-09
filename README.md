@@ -2,9 +2,9 @@
 
 var mes = prompt("Indique el mes!")
 
-> if(mes == 12){
-    alert("Es Invierno");
-  }else if(mes == 1){
+> <p>if(mes == 12){<p>
+    <p>alert("Es Invierno");<p>
+  <p>}else if(mes == 1){<p>
     alert("Es Invierno");
   }else if(mes == 2){
     alert("Es Invierno");
