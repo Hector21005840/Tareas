@@ -8,26 +8,26 @@ var mes = prompt("Indique el mes!")
 >    alert("Es Invierno");<br>
 >  }else if(mes == 2){<br>
 >    alert("Es Invierno");<br>
-  }else if(mes == 3){
-    alert("Es Primavera");
-  }else if(mes == 4){
-    alert("Es Primavera");
-  }else if(mes == 5){
-    alert("Es Primavera"); 
-  }else if(mes == 6){
-    alert("Es Verano"); 
-  }else if(mes == 7){
-    alert("Es Verano"); 
-  }else if(mes == 8){
-    alert("Es Verano");
-  }else if(mes == 9){
-    alert("Es Otoño");
-  }else if(mes == 10){
-    alert("Es Otoño");
-  }else if(mes == 11){
-    alert("Es Otoño");  
-}else{
-   alert("Introduzca un mes entre 1 y 12")
+  }else if(mes == 3){<br>
+    alert("Es Primavera");<br>
+  }else if(mes == 4){<br>
+    alert("Es Primavera");<br>
+  }else if(mes == 5){<br>
+    alert("Es Primavera");<br> 
+  }else if(mes == 6){<br>
+    alert("Es Verano");<br> 
+  }else if(mes == 7){<br>
+    alert("Es Verano");<br> 
+  }else if(mes == 8){<br>
+    alert("Es Verano");<br>
+  }else if(mes == 9){<br>
+    alert("Es Otoño");<br>
+  }else if(mes == 10){<br>
+    alert("Es Otoño");<br>
+  }else if(mes == 11){<br>
+    alert("Es Otoño");<br> 
+}else{<br>
+   alert("Introduzca un mes entre 1 y 12")<br>
 }<p>
 
     
