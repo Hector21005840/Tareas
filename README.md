@@ -2,12 +2,12 @@
 
 var mes = prompt("Indique el mes!")
 
-> if(mes == 12){<p>.
->    alert("Es Invierno");.
->  }else if(mes == 1){.
->    alert("Es Invierno");.
->  }else if(mes == 2){.
->    alert("Es Invierno");.
+> <p>if(mes == 12){<br>
+>    alert("Es Invierno");<br>
+>  }else if(mes == 1){<br>
+>    alert("Es Invierno");<br>
+>  }else if(mes == 2){<br>
+>    alert("Es Invierno");<br>
   }else if(mes == 3){
     alert("Es Primavera");
   }else if(mes == 4){
@@ -28,7 +28,7 @@ var mes = prompt("Indique el mes!")
     alert("Es Otoño");  
 }else{
    alert("Introduzca un mes entre 1 y 12")
-}
+}<p>
 
     
 alert(" Carnet: 21005840 " + " Nombre: Hector Manuel Paz Obregon ")
