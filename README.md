@@ -35,6 +35,6 @@ var mes = prompt("Indique el mes!")
 
 
 
-#### El codigo que observa arriba, fue mi primer intento de resolver la actividad 1 de la unidad 2, pero de esta manera lleva
-#### mas tiempo en programar, hasta que pense que podia utilizar los conectivos logicos para poder ejecutar de manera mas exacta 
-#### y corta lo que pedia en las instrucciones de dicha actividad.
+#### <p>El codigo que observa arriba, fue mi primer intento de resolver la actividad 1 de la unidad 2, pero de esta manera lleva<br>
+#### mas tiempo en programar, hasta que pense que podia utilizar los conectivos logicos para poder ejecutar de manera mas exacta <br>
+#### y corta lo que pedia en las instrucciones de dicha actividad.<p>
