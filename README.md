@@ -3,8 +3,7 @@
 var mes = prompt("Indique el mes!")
 
 > if(mes == 12){
->
->>  alert("Es Invierno");
+    alert("Es Invierno");
   }else if(mes == 1){
     alert("Es Invierno");
   }else if(mes == 2){
